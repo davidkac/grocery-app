@@ -1,0 +1,15 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+
+    .delete-all-btn{
+        float: right;
+    }
+
+    .editing{
+        background-color: rgb(217, 217, 217);
+        color: rgb(70, 70, 70);
+        padding: 5px;
+    }
